@@ -1,0 +1,215 @@
+{
+  "schema": "1.0",
+  "references": [
+    {
+      "id": "hero-ref-001",
+      "file": "/references/heroes/hero-ref-001.png",
+      "sourceUrl": "https://mixpanel.com/home/",
+      "sectionType": "hero",
+      "tags": [
+        "saas",
+        "clean",
+        "corporate",
+        "centered",
+        "light",
+        "pastel",
+        "grotesk",
+        "has-product-ui",
+        "has-gradient",
+        "has-logo-stripe"
+      ],
+      "builtAs": "hero-001"
+    },
+    {
+      "id": "hero-ref-002",
+      "file": "/references/heroes/hero-ref-002.jpg",
+      "sourceUrl": "https://thetechcollective.eu/",
+      "sectionType": "hero",
+      "tags": [
+        "big-imagery",
+        "clean",
+        "minimal",
+        "sans",
+        "full-bleed",
+        "cool",
+        "techy",
+        "ai"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-003",
+      "file": "/references/heroes/hero-ref-003.png",
+      "sourceUrl": "https://tandem.bi/",
+      "sectionType": "hero",
+      "tags": [
+        "minimal",
+        "clean",
+        "centered",
+        "sans",
+        "mono",
+        "large-type",
+        "heavy-whitespace",
+        "has-pixel-art",
+        "has-animation"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-004",
+      "file": "/references/heroes/hero-ref-004.jpg",
+      "sourceUrl": "https://yucca.co.za/",
+      "sectionType": "hero",
+      "tags": [
+        "big-imagery",
+        "clean",
+        "luxury",
+        "overlapping",
+        "full-bleed",
+        "light",
+        "warm",
+        "muted",
+        "large-type",
+        "sans",
+        "grotesk",
+        "has-glassmorphism",
+        "ecommerce",
+        "food-drink"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-005",
+      "file": "/references/heroes/hero-ref-005.png",
+      "sourceUrl": "https://peec.ai/",
+      "sectionType": "hero",
+      "tags": [
+        "clean",
+        "minimal",
+        "corporate",
+        "centered",
+        "contained",
+        "light",
+        "muted",
+        "large-type",
+        "sans",
+        "has-product-ui",
+        "heavy-whitespace",
+        "saas",
+        "ai"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-006",
+      "file": "/references/heroes/hero-ref-006.png",
+      "sourceUrl": "https://exactly.ai/",
+      "sectionType": "hero",
+      "tags": [
+        "minimal",
+        "clean",
+        "centered",
+        "contained",
+        "light",
+        "muted",
+        "large-type",
+        "sans",
+        "heavy-whitespace",
+        "has-logo-strip",
+        "saas",
+        "ai"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-007",
+      "file": "/references/heroes/hero-ref-007.jpg",
+      "sourceUrl": "https://azionepr.com/",
+      "sectionType": "hero",
+      "tags": [
+        "editorial",
+        "big-imagery",
+        "centered",
+        "full-bleed",
+        "dark",
+        "cool",
+        "large-type",
+        "sans",
+        "has-video",
+        "has-logo-strip",
+        "has-marquee",
+        "portfolio",
+        "marketing"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-008",
+      "file": "/references/heroes/hero-ref-008.png",
+      "sourceUrl": "https://aave.com/",
+      "sectionType": "hero",
+      "tags": [
+        "clean",
+        "minimal",
+        "centered",
+        "contained",
+        "light",
+        "muted",
+        "large-type",
+        "sans",
+        "mixed",
+        "has-mockup",
+        "has-product-ui",
+        "finance",
+        "saas"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-009",
+      "file": "/references/heroes/hero-ref-009.png",
+      "sourceUrl": "",
+      "sectionType": "hero",
+      "tags": [
+        "bold",
+        "playful",
+        "colorful",
+        "retro",
+        "centered",
+        "contained",
+        "light",
+        "fun",
+        "pastel",
+        "large-type",
+        "sans",
+        "has-mockup",
+        "has-illustration",
+        "saas"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "hero-ref-010",
+      "file": "/references/heroes/hero-ref-010.png",
+      "sourceUrl": "https://www.coda.co/",
+      "sectionType": "hero",
+      "tags": [
+        "bold",
+        "clean",
+        "techy",
+        "centered",
+        "contained",
+        "light",
+        "muted",
+        "warm",
+        "large-type",
+        "sans",
+        "has-3d",
+        "has-illustration",
+        "finance",
+        "saas"
+      ],
+      "builtAs": null
+    }
+  ]
+}

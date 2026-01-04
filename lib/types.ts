@@ -68,6 +68,7 @@ export type Typography =
   | "sans"
   | "grotesk"
   | "mono"
+  | "italic"
   | "mixed";
 
 // Special tags (optional, pick any that apply)
@@ -83,6 +84,13 @@ export type Special =
   | "has-halftone"
   | "has-pixel-art"
   | "has-glassmorphism"
+  | "has-grid-bg"
+  | "has-line-bg"
+  | "has-sunburst-bg"
+  | "has-code-block"
+  | "has-script-type"
+  | "has-outline-type"
+  | "has-rounded-cards"
   | "unusual-grid"
   | "heavy-whitespace"
   | "dense";

@@ -94,6 +94,7 @@ Pick 1-2:
 - `sans` — Sans-serif typefaces dominate
 - `grotesk` — Grotesk/neo-grotesk typefaces (Helvetica, Inter, etc.)
 - `mono` — Monospace typefaces dominate
+- `italic` — Italic or oblique typefaces featured
 - `mixed` — Combination of typeface styles
 
 ---
@@ -113,6 +114,13 @@ Optional — pick any that apply:
 - `has-halftone` — Dithered/halftone image treatment
 - `has-pixel-art` — Pixel art or 8-bit style graphics
 - `has-glassmorphism` — Frosted glass/blur effects
+- `has-grid-bg` — Grid pattern background
+- `has-line-bg` — Line pattern background
+- `has-sunburst-bg` — Radial burst/ray pattern background
+- `has-code-block` — Code snippets or syntax highlighting
+- `has-script-type` — Script/handwritten/calligraphic typefaces
+- `has-outline-type` — Stroked/hollow text treatment
+- `has-rounded-cards` — Large radius card elements
 - `unusual-grid` — Non-standard grid structure
 - `heavy-whitespace` — Lots of intentional empty space
 - `dense` — Information-dense, packed layout

@@ -93,7 +93,26 @@ export type Special =
   | "has-rounded-cards"
   | "unusual-grid"
   | "heavy-whitespace"
-  | "dense";
+  | "dense"
+  | "has-lead-capture"
+  | "has-testimonial"
+  | "has-prismatic-effect"
+  | "has-feature-cards"
+  | "has-blueprint-illustration";
+
+// Interaction (optional, pick any that apply)
+export type Interaction =
+  | "sticky-scroll"
+  | "scroll-triggered"
+  | "scroll-progress"
+  | "carousel"
+  | "tabs"
+  | "accordion"
+  | "hover-reveal"
+  | "parallax"
+  | "auto-play"
+  | "drag-scroll"
+  | "marquee";
 
 // Website Type (pick 1-2)
 export type WebsiteType =
@@ -114,7 +133,8 @@ export type WebsiteType =
   | "magazine"
   | "photography"
   | "real-estate"
-  | "travel";
+  | "travel"
+  | "logistics";
 
 // Reference entry in references.json
 export interface Reference {
@@ -129,6 +149,7 @@ export interface Reference {
   mood: Mood[];
   typography: Typography[];
   special: Special[];
+  interaction: Interaction[];
   builtAs: string | null;
   dateAdded: string;
 }
@@ -150,6 +171,7 @@ export interface SectionMeta {
   mood: Mood[];
   typography: Typography[];
   special: Special[];
+  interaction: Interaction[];
   referenceId: string | null;
   notes: string;
   dependencies: string[];

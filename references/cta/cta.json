@@ -1,0 +1,202 @@
+{
+  "schema": "1.0",
+  "sectionType": "cta",
+  "references": [
+    {
+      "id": "cta-ref-001",
+      "file": "/references/cta/cta-ref-001.webp",
+      "sourceUrl": "https://chargeflow.io/",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "minimal",
+        "techy",
+        "centered",
+        "contained",
+        "light",
+        "muted",
+        "cool",
+        "large-type",
+        "sans",
+        "has-lead-capture",
+        "has-line-bg",
+        "saas",
+        "finance"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-002",
+      "file": "/references/cta/cta-ref-002.webp",
+      "sourceUrl": "https://chargeflow.io/",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "techy",
+        "corporate",
+        "split-screen",
+        "contained",
+        "dark",
+        "muted",
+        "cool",
+        "large-type",
+        "sans",
+        "has-illustration",
+        "has-line-bg",
+        "saas",
+        "finance"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-003",
+      "file": "/references/cta/cta-ref-003.png",
+      "sourceUrl": "https://supercut.app/",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "techy",
+        "centered",
+        "contained",
+        "dark",
+        "muted",
+        "large-type",
+        "sans",
+        "has-product-ui",
+        "big-imagery",
+        "saas"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-004",
+      "file": "/references/cta/cta-ref-004.png",
+      "sourceUrl": "https://thetechcollective.eu/",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "corporate",
+        "big-imagery",
+        "split-screen",
+        "full-bleed",
+        "dark",
+        "warm",
+        "muted",
+        "large-type",
+        "sans",
+        "marketing",
+        "community"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-005",
+      "file": "/references/cta/cta-ref-005.png",
+      "sourceUrl": "",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "minimal",
+        "centered",
+        "contained",
+        "dark",
+        "muted",
+        "large-type",
+        "sans",
+        "has-rounded-cards",
+        "saas"
+      ]
+    },
+    {
+      "id": "cta-ref-006",
+      "file": "/references/cta/cta-ref-006.png",
+      "sourceUrl": "https://cofounder.ai/",
+      "sectionType": "cta",
+      "tags": [
+        "playful",
+        "big-imagery",
+        "full-bleed",
+        "asymmetric",
+        "light",
+        "vibrant",
+        "warm",
+        "large-type",
+        "serif",
+        "italic",
+        "has-pixel-art",
+        "has-animation",
+        "auto-play",
+        "saas",
+        "ai"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-007",
+      "file": "/references/cta/cta-ref-007.png",
+      "sourceUrl": "https://peec.ai/",
+      "sectionType": "cta",
+      "tags": [
+        "clean",
+        "corporate",
+        "techy",
+        "split-screen",
+        "contained",
+        "dark",
+        "muted",
+        "large-type",
+        "sans",
+        "has-product-ui",
+        "has-rounded-cards",
+        "saas",
+        "ai",
+        "marketing"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-008",
+      "file": "/references/cta/cta-ref-008.png",
+      "sourceUrl": "https://withdavid.ai/",
+      "sectionType": "cta",
+      "tags": [
+        "minimal",
+        "editorial",
+        "clean",
+        "split-screen",
+        "contained",
+        "light",
+        "colorful",
+        "large-type",
+        "serif",
+        "has-illustration",
+        "has-numbered-steps",
+        "heavy-whitespace",
+        "ai"
+      ],
+      "builtAs": null
+    },
+    {
+      "id": "cta-ref-009",
+      "file": "/references/cta/cta-ref-009.png",
+      "sourceUrl": "https://codapayments.com/",
+      "sectionType": "cta",
+      "tags": [
+        "minimal",
+        "bold",
+        "corporate",
+        "centered",
+        "contained",
+        "dark",
+        "muted",
+        "large-type",
+        "serif",
+        "italic",
+        "heavy-whitespace",
+        "has-line-bg",
+        "finance"
+      ],
+      "builtAs": null
+    }
+  ]
+}

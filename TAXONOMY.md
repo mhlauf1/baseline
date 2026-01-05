@@ -124,6 +124,29 @@ Optional — pick any that apply:
 - `unusual-grid` — Non-standard grid structure
 - `heavy-whitespace` — Lots of intentional empty space
 - `dense` — Information-dense, packed layout
+- `has-lead-capture` — Prominent contact/demo request form
+- `has-testimonial` — Integrated customer quote with logo and attribution
+- `has-prismatic-effect` — Rainbow/light refraction/prism visual effects
+- `has-feature-cards` — Distinct cards highlighting individual features
+- `has-blueprint-illustration` — Patent-style technical drawings, schematic diagrams, blueprint graphics
+
+---
+
+## Interaction
+
+Optional — pick any that apply:
+
+- `sticky-scroll` — Content sticks while scrolling reveals/animates new content
+- `scroll-triggered` — Animations/transitions fire based on scroll position
+- `scroll-progress` — Visual progress indicator tied to scroll
+- `carousel` — Horizontal sliding content panels
+- `tabs` — Click-to-switch content panels
+- `accordion` — Collapsible/expandable sections
+- `hover-reveal` — Content reveals or transforms on hover
+- `parallax` — Layers move at different scroll speeds
+- `auto-play` — Content cycles automatically (testimonials, images)
+- `drag-scroll` — Horizontal drag-to-scroll interaction
+- `marquee` — Continuous scrolling text/logos
 
 ---
 
@@ -149,6 +172,7 @@ Pick 1-2:
 - `photography` — Photography portfolios and studios
 - `real-estate` — Property and real estate
 - `travel` — Travel, hospitality, tourism
+- `logistics` — Freight, shipping, supply chain, transportation management
 
 ---
 
@@ -167,6 +191,6 @@ Examples: `hero-001`, `nav-015`, `bento-003`
 ## File Locations
 
 - References: `/references/{folder-name}/{id}.png`
-- Reference metadata: `/references/references.json`
+- Reference metadata: `/references/{folder-name}/{folder-name}.json`
 - Sections: `/sections/{folder-name}/{id}/{ComponentName}.tsx`
 - Section metadata: `/sections/{folder-name}/{id}/meta.json`
